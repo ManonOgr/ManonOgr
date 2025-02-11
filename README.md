@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/ManonOgr/ManonOgr/main/img-1.png" width="180" style="border-radius: 50%;" align="right">
 
-**I'm Manon Ogr, a passionate developer always eager to learn and take on new challenges. I love working with cutting-edge technologies and meaningful projects that push my skills further.
+I'm Manon Ogr, a passionate developer always eager to learn and take on new challenges. I love working with cutting-edge technologies and meaningful projects that push my skills further.
 
-Continuous learning drives me—whether it's building apps, experimenting with new tools, or exploring innovative frameworks. Always open to exciting opportunities and collaborations!**
+Continuous learning drives me—whether it's building apps, experimenting with new tools, or exploring innovative frameworks. Always open to exciting opportunities and collaborations!
 
 🩵 Full Stack Development
 
